@@ -129,15 +129,19 @@ TODO
 * add rule penalizing lack of examples ("we published these stories and think they are exemplary")
 * add rule penalizing lack of reader specification (what the readers want)
 * add rules suggesting the publisher mention:
-** pay
-** deadline
-** requiring printed-on-paper submissions
-** what rights the org is buying
-* "We're looking for REAL $genre" per [Andrea](https://twitter.com/andrhia/status/521749952327065600)
-* "avant-garde", "fearless", and "controversial" per [Wiredferret](https://twitter.com/wiredferret/status/521751498469150720)
+  * pay
+  * deadline
+  * requiring printed-on-paper submissions
+  * what rights the org is buying
+* "We're looking for REAL $genre"
+  per [Andrea](https://twitter.com/andrhia/status/521749952327065600)
+* "avant-garde", "fearless", and "controversial"
+  per [Wiredferret](https://twitter.com/wiredferret/status/521751498469150720)
 * add some diversity rules:
-** mentioning diverse/diversity/marginali[s|z]ed groups is good (but don't go overboard specifying what counts, per [Keffy](https://twitter.com/Keffy/status/521750233521209346))
-** Africa is not a country (per [Keffy](https://twitter.com/Keffy/status/521750643283738626)
+  * mentioning diverse/diversity/marginali[s|z]ed groups is good
+    (but don't go overboard specifying what counts,
+    per [Keffy](https://twitter.com/Keffy/status/521750233521209346))
+  * Africa is not a country (per [Keffy](https://twitter.com/Keffy/status/521750643283738626)
 * discussion of cover letters
 
 [contrib]: https://github.com/rowanmanning/joblint/graphs/contributors
